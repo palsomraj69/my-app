@@ -1,0 +1,17 @@
+/* src/components/Filter.css */
+
+/* Filter container */
+.filter {
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Filter button */
+  .filter button {
+    background-color: #2196F3;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }

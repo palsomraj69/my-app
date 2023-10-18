@@ -1,0 +1,17 @@
+/* src/components/Sort.css */
+
+/* Sort container */
+.sort {
+    display: flex;
+    gap: 10px;
+  }
+  
+  /* Sort button */
+  .sort button {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
